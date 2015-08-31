@@ -1,0 +1,6 @@
+Dependencies for Project 'Lab8', Target 'Lab8': (DO NOT MODIFY !)
+F (.\startup.s)(0x51981D5A)()
+F (.\SwitchLEDInterface.c)(0x55E3ED50)()
+I (TExaS.h)(0x54A0C0DE)
+I (..\tm4c123gh6pm.h)(0x51D49AE2)
+F (.\texas.o)(0x54A17ED4)()
